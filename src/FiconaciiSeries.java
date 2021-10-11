@@ -8,7 +8,9 @@ public class FiconaciiSeries {
 
         for(int i=0;i<s;i++){
             System.out.println(i);
+
             i= i+i+1;
+
 
         }
 
